@@ -5,7 +5,7 @@
 ---
 
 ## About me
-I'm a Berlin-based communication designer with a focus on brand identity, web design, and illustration. I build brands from scratch — from strategy and logo to website and campaign. My work lives at the intersection of culture, craft, and visual storytelling.
+I'm a Berlin-based communication designer with a focus on brand identity, web design, and illustration. I build brands from scratch, from strategy and logo to website and campaign. My work lives at the intersection of culture, craft, and visual storytelling.
 
 ## What I do
 - 🎯 Brand Identity & Visual Systems
