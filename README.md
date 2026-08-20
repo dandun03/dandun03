@@ -19,5 +19,5 @@ I'm a Berlin-based communication designer with a focus on brand identity, web de
 - **Plapperegg** — Brand Identity
 
 ## Find me
-- 🌍 https://dandunstudio.myportfolio.com/work
+- 🌍 www.dinahajeer.myportfolio.com
 - 📧 dina@dandunstudio.com
